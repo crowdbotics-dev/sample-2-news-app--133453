@@ -1,0 +1,12 @@
+{
+    "name": "@modules/dashboard",
+    "version": "1.0.0",
+    "description": "",
+    "private": true,
+    "main": "index.js",
+    "license": "ISC",
+    "author": "Jason Kozel",
+    "dependencies": {
+        "recharts": "^2.12.0"
+    }
+}
